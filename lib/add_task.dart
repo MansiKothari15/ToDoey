@@ -1,7 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:todoey_flutter/models/TaskModel.dart';
 import 'package:todoey_flutter/tasks_data.dart';
 
 class AddTaskScreen extends StatelessWidget {

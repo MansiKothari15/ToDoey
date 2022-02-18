@@ -1,7 +1,5 @@
 import 'package:flutter/cupertino.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:provider/provider.dart';
-import 'package:todoey_flutter/models/TaskModel.dart';
 import 'package:todoey_flutter/task_tile.dart';
 import 'package:todoey_flutter/tasks_data.dart';
 

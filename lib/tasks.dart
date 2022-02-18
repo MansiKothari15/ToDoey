@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:todoey_flutter/add_task.dart';
 import 'package:todoey_flutter/task_list.dart';
-import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
 import 'package:todoey_flutter/tasks_data.dart';
 
 class TasksScreen extends StatelessWidget {
